@@ -1,0 +1,16 @@
+{
+  "title": "Encrypt 2",
+  "desc": "&quot;Encodes&quot; text into ASCII numbers",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "03/27/2024",
+
+  "tags": [
+    "javascript",
+    "p5.js",
+    "tool",
+    "encryption"
+  ]
+}
