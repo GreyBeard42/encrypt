@@ -1,4 +1,4 @@
-# encrypt2
+# encrypt
 "Encodes" text into ASCII numbers
 
 This repo was made long after the project was.
